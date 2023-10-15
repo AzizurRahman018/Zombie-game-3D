@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{2553505E-40F5-A682-8B32-BEF855F699A7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs">
+    <Files>
+      <File FileName="Assets/Flooded_Grounds/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" Line="16" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zombie game 3D" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Flooded_Grounds" expanded="True">
+                <Node name="PostProcessing" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="PropertyDrawers" expanded="True">
+                      <Node name="MinDrawer.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="49020525-16b4-4e1a-92ac-324dc451a618" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
